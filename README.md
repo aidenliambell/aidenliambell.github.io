@@ -1,2 +1,2 @@
 # aidenliambell.github.io
-Website for bell Project
+Website for Bell Project. This website will have information about the Bell Project.
